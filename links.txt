@@ -1,0 +1,6 @@
+http://blog.puneethabm.in/rename-reducer-output-part-file-using-mapreduce-code-with-new-hadoop-api-2/
+http://hadoop.apache.org/docs/current/api/org/apache/hadoop/mapred/lib/MultipleOutputs.html
+
+http://quickstart.cloudera:50070/dfshealth.html#tab-overview -- Namenode
+
+http://quickstart.cloudera:7180/cmf/home - Cloudera Manager
