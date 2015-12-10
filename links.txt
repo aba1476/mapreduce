@@ -4,3 +4,6 @@ http://hadoop.apache.org/docs/current/api/org/apache/hadoop/mapred/lib/MultipleO
 http://quickstart.cloudera:50070/dfshealth.html#tab-overview -- Namenode
 
 http://quickstart.cloudera:7180/cmf/home - Cloudera Manager
+
+https://github.com/alexholmes/hiped2/releases -- Hadoop in practice sample code.
+
