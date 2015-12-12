@@ -1,0 +1,5 @@
+java -jar /usr/lib/avro/avro-tools-1.7.6-cdh5.5.0.jar fromjson students.json --schema-file students.avsc > students.avro
+
+java -jar /usr/lib/avro/avro-tools-1.7.6-cdh5.5.0.jar compile students.avsc
+
+
