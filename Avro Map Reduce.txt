@@ -2,4 +2,4 @@ java -jar /usr/lib/avro/avro-tools-1.7.6-cdh5.5.0.jar fromjson students.json --s
 
 java -jar /usr/lib/avro/avro-tools-1.7.6-cdh5.5.0.jar compile students.avsc
 
-
+http://www.tutorialspoint.com/avro/serialization_by_generating_class.htm
